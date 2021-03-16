@@ -3692,24 +3692,15 @@ nav.open {
   filter: blur(8px);
   -webkit-filter: blur(8px);
 }
-.swiper-slide-next {
-  height: 25vw !important;
-}
 
 .swiper-slide-prev .img-mask {
 	filter: blur(8px);
 	-webkit-filter: blur(8px);
   }
-  .swiper-slide-prev {
-	height: 25vw !important;
-  }
 
-  .swiper-slide-active{
-    height: 30vw !important;
-  }
 
   .swiper-slide-active .img-mask{
-	  border: 2px #fccf35 solid;
+	  border: 2px #b7b7b7 solid;
   }
 
   /*main{
