@@ -747,6 +747,9 @@
 	  pointer-events: auto;
 	  visibility: visible;
 	}
+
+	
+
 	.swiper-container-cube .swiper-cube-shadow {
 	  position: absolute;
 	  left: 0;
